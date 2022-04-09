@@ -3,13 +3,13 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="right" alt="profile-pic" height="400" style="border-radius:50px;" src="https://user-images.githubusercontent.com/81422288/162552243-380ce48c-71ad-4c49-a1a7-ea3feac95573.gif">
+  <img align="right" alt="profile-pic" height="350" style="border-radius:50px;" src="https://user-images.githubusercontent.com/81422288/162552243-380ce48c-71ad-4c49-a1a7-ea3feac95573.gif">
 
 </div>
 
 <div align="center">
   <a href="https://github.com/AmandaGorni">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaGorni&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaGorni&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
