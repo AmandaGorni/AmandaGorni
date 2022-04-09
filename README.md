@@ -3,7 +3,7 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="right" alt="profile-pic" height="350" style="border-radius:50px;" src="https://user-images.githubusercontent.com/81422288/162552243-380ce48c-71ad-4c49-a1a7-ea3feac95573.gif">
+  <img align="right" alt="profile-pic" height="300" style="border-radius:50px;" src="https://user-images.githubusercontent.com/81422288/162552243-380ce48c-71ad-4c49-a1a7-ea3feac95573.gif">
 
 </div>
 
