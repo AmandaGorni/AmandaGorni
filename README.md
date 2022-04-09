@@ -7,7 +7,7 @@
 
 </div>
 
-<div align="right">
+<div align="left">
   <a href="https://github.com/AmandaGorni">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaGorni&layout=compact&langs_count=7&theme=dracula"/>
 </div>
