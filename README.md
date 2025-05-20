@@ -10,9 +10,10 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Gatsby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg">
+  <img align="center" alt="Angular" height="30" width="40" src="https://angular.io/assets/images/logos/angular/angular.svg"> 
+   <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
    <img align="right" alt="profile-pic" height="150" src="https://user-images.githubusercontent.com/81422288/162552243-380ce48c-71ad-4c49-a1a7-ea3feac95573.gif">
-          
+     
 </div>
   
   ##
